@@ -2,7 +2,7 @@
 
 
 function tocaSom (idElementoAudio){
-    const elemento = document.querySelector(idElementoAudio).play();
+    const elemento = document.querySelector(idElementoAudio);
 
 
     // && operador lógico que significa "e"
